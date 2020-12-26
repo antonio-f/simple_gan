@@ -3,4 +3,8 @@ Easy Generative Adversarial Networks example using a tiny collection (bird doodl
 
 Download the dataset [here](https://console.cloud.google.com/storage/browser/_details/quickdraw_dataset/full/numpy_bitmap/bird.npy).
 
-Create a conda environment using `conda create -n simple_gan tensorflow graphviz pydot jupyterlab matplotlib numpy`, then type `conda activate simple_gan` and then launch `jupyter lab`.
+Create a conda environment using 
+
+`conda create -n simple_gan tensorflow graphviz pydot jupyterlab matplotlib numpy`
+
+and then type `conda activate simple_gan`. Launch `jupyter lab` to open the notebook.
